@@ -71,6 +71,7 @@ main {
   -ms-flex-item-align: center;
       align-self: center;
   width: calc(100% / 4);
+  min-width: 100px;
   height: calc(100% - 60px);
   -webkit-transform: scale(0.98) rotateY(10deg);
           transform: scale(0.98) rotateY(10deg);
